@@ -1,6 +1,6 @@
 # My Strudel Songs
 
-Songs created with Strudel, the live coding music tool
+Song created with Strudel, the live coding music tool
 
 ## How to Play
 
